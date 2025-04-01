@@ -150,10 +150,44 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema:
+        '<em>Decreto Único Reglamentario del Sector Comercio, Industria y Turismo, relacionado con la clasificación de las micro, pequeñas y medianas empresas – MIPYMES</em>',
+      referencia:
+        '<b>Ministerio de Comercio, Industria y Turismo</b>. (2019, junio 5). <em>Decreto 957 de 2019: Por el cual se adiciona el capítulo 13 al título 1 de la parte 2 del libro 2 del Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria y Turismo, relacionado con la clasificación de las micro, pequeñas y medianas empresas – MIPYMES</em>. Diario Oficial No. 50.963.',
+      tipo: 'Página web',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=94550',
+    },
+    {
+      tema:
+        '<em>Clasificación Uniforme para las Actividades Económicas – CIIU Rev. 4 A.C. adaptada para Colombia</em>',
+      referencia:
+        '<b>Ministerio de Comercio, Industria y Turismo</b>. (2019, diciembre 5). <em>Resolución 2225 de 2019: Por la cual se adopta la Clasificación Uniforme para las Actividades Económicas – CIIU Rev. 4 A.C. adaptada para Colombia.</em>',
+      tipo: 'Página web',
+      link:
+        'https://www.mincit.gov.co/getattachment/7e05bcde-66df-49a2-b6d2-a160f585cf54/Resolucion-2225-del-05-de-diciembre-de-2019-por-la.aspx',
+    },
+    {
+      tema: '<b>Decreto 1252 de 1990</b>',
+      referencia:
+        '<b>Presidencia de la República de Colombia</b>. (1990, junio 13). <em>Decreto 1252 de 1990: Por el cual se reglamenta parcialmente el Título VI del Libro I del Código de Comercio</em>. Diario Oficial No. 39.457.',
+      tipo: 'Página web',
+      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1252678',
+    },
+    {
+      tema: '<b>Decreto 474 de 1992</b>',
+      referencia:
+        '<b>Presidencia de la República de Colombia</b>.(1992, marzo 11). <em>Decreto 474 de 1992: Por el cual se adiciona el Decreto 1252 de 1990 sobre cámaras de comercio</em>. Diario Oficial No. 40.346.',
+      tipo: 'Página web',
+      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1744550',
+    },
+    {
+      tema: '<b>Decreto 1754 de 2020</b>',
+      referencia:
+        '<b>Presidencia de la República de Colombia</b>. (2020, diciembre 23). <em>Decreto 1754 de 2020: Por el cual se modifica el nombre de la Cámara de Comercio de Barrancabermeja, en cumplimiento del Decreto 1252 de 1990</em>. Diario Oficial No. 51.540',
+      tipo: 'Página web',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=147524',
     },
   ],
   glosario: [
