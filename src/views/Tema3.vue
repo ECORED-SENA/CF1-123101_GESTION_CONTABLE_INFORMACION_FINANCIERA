@@ -9,7 +9,7 @@
 
     .row.align-items-center.justify-content-center
       .col-lg-7 
-        p.p-4.bg-t2-4 El término administración existe desde la época primitiva, donde se realizaban trabajos rudimentarios. Toma importancia a partir de la revolución Industrial, atendiendo la necesidad de coordinar esfuerzos y organizar las actividades con el fin de generar productividad y eficiencia.
+        p.p-4.bg-t2-4 El término administración existe desde la época primitiva, donde se realizaban trabajos rudimentarios. Toma importancia a partir de la revolución industrial, atendiendo la necesidad de coordinar esfuerzos y organizar las actividades con el fin de generar productividad y eficiencia.
 
         p El desarrollo de la administración ha estado marcado por diversas corrientes teóricas que han contribuido a la evolución de la gestión organizacional. Desde la administración científica hasta la escuela neoclásica, cada enfoque ha aportado principios clave que han permitido mejorar la eficiencia, la estructura y la toma de decisiones en las organizaciones. La siguiente tabla presenta una comparación de estas teorías, sus principales exponentes y los aportes que han dejado en la gestión empresarial.
 
@@ -162,8 +162,8 @@
                       img(src='@/assets/curso/tema3/img12.png')
 
                   .col-md-7.mb-4.mb-md-0
-                    p #[b Número de Identificación tributaria (NIT)] 
-                    p Es el número que se obtiene una vez se ha tramitado el RUT, el cual identifica al contribuyente ante las diferentes entidades de control y supervisión. En el caso de las personas naturales se encuentra compuesto por el número de documento de identidad y el dígito de verificación. En cuanto a la identificación del NIT de las personas jurídicas, la DIAN y cámara de comercio mediante proceso realizan la asignación de 9 dígitos y el dígito de verificación.
+                    p #[b Número de identificación tributaria (NIT)] 
+                    p Es el número que se obtiene una vez que se ha tramitado el RUT, el cual identifica al contribuyente ante las diferentes entidades de control y supervisión. En el caso de las personas naturales, se encuentra compuesto por el número de documento de identidad y el dígito de verificación. En cuanto a la identificación del NIT de las personas jurídicas, la DIAN y la cámara de comercio mediante proceso, realizan la asignación de 9 dígitos y el dígito de verificación.
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5

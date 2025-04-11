@@ -12,7 +12,7 @@
         .row.d-flex.align-items-stretch.bg-t1-1
           .col-xl.d-flex
             .p-4.w-100.d-flex.align-items-center
-              p.mb-0 Para iniciar el proceso contable en una organización, es indispensable hablar de empresa y sociedades teniendo en cuenta la clasificación, características y requisitos. La contextualización de estos elementos contribuye en la identificación de la normatividad financiera y tributaria aplicable en cada caso; por lo tanto, es importante la apropiación de los conceptos que se proponen en esta unidad.
+              p.mb-0 Para iniciar el proceso contable en una organización, es indispensable hablar de empresas y sociedades, teniendo en cuenta la clasificación, características y requisitos. La contextualización de estos elementos contribuye a la identificación de la normatividad financiera y tributaria aplicable en cada caso; por lo tanto, es importante la apropiación de los conceptos que se proponen en esta unidad.
           .col-xl-auto.pe-xl-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
             figure.m-0.p-0.w-100.h-100.d-flex
               img(src='@/assets/curso/tema2/img1.png', alt='', class="w-100 h-100 object-fit-cover")
@@ -24,7 +24,7 @@
     p Es fundamental comprender que una organización se estructura a partir de la integración de recursos financieros, tecnológicos y humanos con el propósito de desarrollar actividades mercantiles. Las empresas pueden clasificarse según su naturaleza y funciones, abarcando desde la comercialización de bienes hasta la prestación de servicios. Para su funcionamiento, requieren talento humano, inversión financiera y una distribución clara de tareas, elementos esenciales para alcanzar sus objetivos y garantizar su sostenibilidad en el mercado.
 
     .video
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/3KDDv2LrIcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/yvEoYhSCaV8?si=ro-NMGiyiQHF2qZB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mt-4.bg-t2-1
       .col-12 
@@ -38,7 +38,7 @@
                 .col
                   h3.mb-0 Clasificaciones, naturaleza y estructura de las organizaciones     
 
-          p.mt-2 Las empresas se clasifican de la siguiente manera (Angulo, 2018; Münch, 2015; Sánchez, 2015Vilches, 2019; Warren, Reeves y Duchac, 2016; Cuaspa, 2013):
+          p.mt-2 Las empresas se clasifican de la siguiente manera (Angulo, 2018; Münch, 2015; Sánchez, 2015; Vilches, 2019; Warren, Reeves y Duchac, 2016; Cuaspa, 2013):
 
           .row.mt-2.justify-content-center
             .col-lg-10
@@ -62,7 +62,7 @@
 
                       p #[b Empresas mineras:]  son las empresas que explotan los recursos del subsuelo.  Ejemplo: empresas petroleras, de piedras preciosas.
 
-                      p #[b Empresas industriales:] son aquellas que transforman materia prima en producto terminados. Ejemplo: fábricas de jean, de calzado y muebles.
+                      p #[b Empresas industriales:] son aquellas que transforman materia prima en productos terminados. Ejemplo: fábricas de jeans, de calzado y de muebles.
 
                       p #[b Empresas comerciales:] realizan actividades de compra y venta de bienes. Ejemplo: empresas de electrodomésticos, supermercados, etc.
 
@@ -75,15 +75,11 @@
                       figure
                         img(src="@/assets/curso/tema2/img4.svg", alt="", style="width: 79px").m-auto
                     .col-lg-8
-                      p #[b Empresas agropecuarias:] son las empresas dedicadas a la producción de bienes agrícolas y pecuarios. Ejemplo: granjas avícolas, de cultivos de hortalizas y granos.
+                      p #[b Empresas privadas:] están constituidas con capital privado; es decir, aporte de particulares.
 
-                      p #[b Empresas mineras:]  son las empresas que explotan los recursos del subsuelo.  Ejemplo: empresas petroleras, de piedras preciosas.
+                      p #[b Empresas oficiales o públicas:]  son las empresas constituidas con capital del Estado.
 
-                      p #[b Empresas industriales:] son aquellas que transforman materia prima en producto terminados. Ejemplo: fábricas de jean, de calzado y muebles.
-
-                      p #[b Empresas comerciales:] realizan actividades de compra y venta de bienes. Ejemplo: empresas de electrodomésticos, supermercados, etc.
-
-                      p #[b Empresas de servicios:] son aquellas empresas que tienen como objetivo satisfacer una necesidad. Ejemplo: empresas de salud, transporte, educación, etc.
+                      p #[b Empresas de economía mixta:] son creadas con aportes de capital privado y público.
 
                 div(titulo="Según el grupo de presentación de información financiera")
                   .row.justify-content-center
@@ -91,7 +87,7 @@
                       figure
                         img(src="@/assets/curso/tema2/img5.svg", alt="", style="width: 79px").m-auto
                     .col-lg-8
-                      p #[b Grupo 1: ]son las empresas que aplican las NIIF plenas. De acuerdo con el Decreto 2420 y 2496 de 2015, son: Emisores de valores, Entidades de interés público, Entidades que tengan Activos totales superiores a treinta mil (30.000) SMMLV o planta de personal superior a doscientos (200) trabajadores; que no sean emisores de valores ni entidades de interés público y que cumplan además cualquiera de los siguientes requisitos: 
+                      p #[b Grupo 1: ]son las empresas que aplican las NIIF plenas. De acuerdo con el decreto 2420 y 2496 de 2015, son: emisores de valores, entidades de interés público,entidades que tengan activos totales superiores a treinta mil (30.000) SMMLV o planta de personal superior a doscientos (200) trabajadores; que no sean emisores de valores ni entidades de interés público y que cumplan además cualquiera de los siguientes requisitos: 
 
                       ul.lista-ul--color
                         li.d-flex
@@ -110,9 +106,9 @@
                           p.mb-0 Realizar importaciones (pagos al exterior) o exportaciones (ingresos del exterior) que representen más del 50% de las compras o de las ventas respectivamente (Sistema Único de Información Normativa, 2020).
                   .row.justify-content-center
                     .col-11
-                      p.mt-4 #[b Grupo 2:] son las empresas que aplican las NIIF para Pymes. De acuerdo con el Decreto 2420 y 2496 de 2015, son: Empresas que tengan activos totales por valor entre quinientos (500) y treinta mil (30.000) SMMLV o planta de personal entre once (11) y doscientos (200) trabajadores, y que no sean emisores de valores ni entidades de interés público. Microempresas que tengan activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o planta de personal no superior a los (10) trabajadores, y cuyos ingresos brutos anuales sean iguales o superiores a 6.000 SMMLV (Sistema Único de Información Normativa, 2020).
+                      p.mt-4 #[b Grupo 2:] son las empresas que aplican las NIIF para pymes. De acuerdo con el decreto 2420 y 2496 de 2015, son: empresas que tengan activos totales por valor entre quinientos (500) y treinta mil (30.000) SMMLV o planta de personal entre once (11) y doscientos (200) trabajadores, y que no sean emisores de valores ni entidades de interés público. Microempresas que tengan activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o planta de personal no superior a los (10) trabajadores, y cuyos ingresos brutos anuales sean iguales o superiores a 6.000 SMMLV (Sistema Único de Información Normativa, 2020).
 
-                      p #[b Grupo 3:] son las empresas que aplican contabilidad simplificada para microempresas. De acuerdo con el Decreto 2420 y 2496 de 2015, son: personas naturales o jurídicas que cumplan los criterios establecidos en el art. 499 del Estatuto Tributario (ET) y normas posteriores que lo modifiquen. Para el efecto se tomará el equivalente a UVT, en salarios mínimos legales vigentes. b) Microempresas que tengan Activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o planta de personal no superior a los (10) trabajadores que no cumplan con los requisitos para ser incluidas en el grupo 2 ni en el literal anterior (Sistema Único de Información Normativa, 2020). 
+                      p #[b Grupo 3:] son las empresas que aplican contabilidad simplificada para microempresas. De acuerdo con el decreto 2420 y 2496 de 2015, son: personas naturales o jurídicas que cumplan los criterios establecidos en el art. 499 del estatuto tributario (ET) y normas posteriores que lo modifiquen. Para el efecto se tomará el equivalente a UVT, en salarios mínimos legales vigentes. b) Microempresas que tengan activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o planta de personal no superior a los (10) trabajadores que no cumplan con los requisitos para ser incluidas en el grupo 2 ni en el literal anterior (Sistema Único de Información Normativa, 2020). 
 
                 div(titulo="Según Conformación del Capital")
                   .row.justify-content-center
@@ -122,9 +118,9 @@
                     .col-lg-8
                       p #[b Multinacionales:] son aquellas empresas que realizan operaciones a nivel mundial, generalmente constituida con capital extranjero. Ejemplo: BBVA.
 
-                      p #[b Grupos Económicos:] son empresas que pertenecen a al mismo grupo de socios o propietarios, se dedican a diferentes sectores de la economía. Ejemplo: Grupo Santo Domingo, Grupo Luis Carlos Sarmiento Angulo.
+                      p #[b Grupos económicos:] son empresas que pertenecen al mismo grupo de socios o propietarios, se dedican a diferentes sectores de la economía. Ejemplo: Grupo Santo Domingo, Grupo Luis Carlos Sarmiento Angulo.
 
-                      p #[b Nacionales:] son las empresas creadas en el territorio colombiano, cuentan con una empresa principal y varias sucursales. Ejemplo: Arturo calle, Panamericana.
+                      p #[b Nacionales:] son las empresas creadas en el territorio colombiano, cuentan con una empresa principal y varias sucursales. Ejemplo: arturo calle, panamericana.
 
                       p #[b Locales:] son las empresas que funcionan dentro de la misma localidad.
 
@@ -136,7 +132,7 @@
                     .col-lg-8
                       p #[b Personas naturales:] son las empresas constituidas por una persona, quienes adquieren derechos y obligaciones. Es cualquier individuo de la especie humana.
 
-                      p #[b Personas jurídicas:] son un ente ficticio, pertenecen las sociedades, quienes adquieren derechos y contraer obligaciones civiles.
+                      p #[b Personas jurídicas:] son un ente ficticio, pertenecen a las sociedades, quienes adquieren derechos y contraen obligaciones civiles.
 
                 div(titulo="Según el tamaño")
                   .row.justify-content-center
@@ -308,7 +304,7 @@
                       p #[b Causales de disolución y liquidación (Secretaría del Senado, 2020, Art. 218).]
                       p #[b Por muerte de alguno de los socios] si no se hubiere estipulado su continuación con uno o más de los herederos, o con los socios supérstites.
                       p #[b Por incapacidad sobreviniente a alguno de los socios], a menos que se convenga que la sociedad continúe con los demás, o que acepten que los derechos del incapaz sean ejercidos por su representante;
-                      p #[b Por declaración de quiebra de alguno de los socios], si los demás no adquieren su interés social o no aceptan la cesión a un extraño, una vez requeridos por el síndico de la quiebra, dentro de los treinta días siguientes;
+                      p #[b Por declaración de quiebra de alguno de los socios], si los demás no adquieren su interés social o no aceptan la cesión a un extraño, una vez requeridos por el síndico de la quiebra, dentro de los treinta días siguientes.
                       p #[b Por enajenación forzada del interés de alguno de los socios] en favor de un extraño, si los demás asociados no se avienen dentro de los treinta días siguientes a continuar la sociedad con el adquirente, y
                       p #[b Por renuncia o retiro justificado de alguno de los socios], si los demás no adquieren su interés en la sociedad o no aceptan su cesión a un tercero.
 
@@ -807,7 +803,7 @@
                   p.mb-0 Declaración por parte del constituyente o constituyentes, según sea el caso, o de sus representantes o apoderados sobre el cumplimiento de al menos uno de los requisitos señalados en el artículo 22 de la Ley 1014 de 2006 (Secretaría del Senado, 2020), esto es, que cuenten con diez (10) o menos trabajadores, o con activos totales, excluida la vivienda, por valor inferior a quinientos (500) salarios mínimos legales mensuales vigentes.
               hr.borde-num
 
-            p.mt-4 Recuerde que, una vez se obtiene la escritura pública o documento privado debe tramitarse el registro mercantil ante la cámara de comercio en la jurisdicción del domicilio.
+            p.mt-4 Recuerde que, una vez que se obtiene la escritura pública o documento privado debe tramitarse el registro mercantil ante la cámara de comercio en la jurisdicción del domicilio.
 
     .row.mb-2.ms-0
       .col-auto.bg-c3(data-aos="fade-left")
@@ -818,7 +814,7 @@
           .col
             h3.mb-0  Liquidación 
 
-    p.mt-4 Según el Código de Comercio (Secretaría del Senado, 2020, Art. 218 y 225) se relacionan las causales de disolución y liquidación de una sociedad.
+    p.mt-4 Según el Código de Comercio (Secretaría del Senado, 2020, Art. 218 y 225), se relacionan las causales de disolución y liquidación de una sociedad.
 
     .row.mt-4.justify-content-center.align-items-center.bg-t2-7.p-5
       .h3.text-center Causales de disolución
@@ -935,7 +931,7 @@
           li 
             .lista-ol--cuadro__vineta
               span.text-black 9
-            | Solicitar cancelación del RUT ante la Dirección de Impuestos y Aduana Nacionales.
+            | Solicitar cancelación del RUT ante la Dirección de impuestos y Aduanas Nacionales.
 
     .row.mb-2.ms-0.mt-4
       .col-auto.bg-c3(data-aos="fade-left")
@@ -1067,7 +1063,7 @@
               li.d-flex
                 i.fa-solid.fa-chevron-right
                 |
-                p.mb-0 Obtener el Certificado de bomberos, que tiene como objetivo la seguridad de los colaboradores mediante la identificación de riesgos.
+                p.mb-0 Obtener el certificado de bomberos, que tiene como objetivo la seguridad de los colaboradores mediante la identificación de riesgos.
 
               li.d-flex
                 i.fa-solid.fa-chevron-right
@@ -1090,7 +1086,7 @@
 
             p El International Accounting Standars Board (IASB), es el organismo que emite los estándares internacionales NIIF o IFRS (International Financial Reporting Standars). Estos contienen los criterios de reconocimiento, medición, presentación y revelación de los hechos económicos de la empresa, los cuales son reflejados en los estados financieros; de esta manera, se establece un lenguaje contable homogéneo que genere información financiera comprensible, oportuna y útil para la toma de decisiones.
 
-            p En el marco de la Globalización y el acceso de mercados internacionales surge la necesidad de estandarizar la información Financiera; en consecuencia, en Colombia, a partir de la expedición de la Ley 1314 de 2009 (Secretaría del Senado, 2020), se establece la regulación de los principios y normas de contabilidad e información financiera, con el fin de implementar las Normas Internacionales de Información Financiera (NIIF) de acuerdo con el tipo de empresa y actividades que desarrolla.
+            p En el marco de la globalización y el acceso de mercados internacionales surge la necesidad de estandarizar la información financiera; en consecuencia, en Colombia, a partir de la expedición de la Ley 1314 de 2009 (Secretaría del Senado, 2020), se establece la regulación de los principios y normas de contabilidad e información financiera, con el fin de implementar las Normas Internacionales de Información Financiera (NIIF) de acuerdo con el tipo de empresa y actividades que desarrolla.
 
             p Con la expedición de dicha ley, comienza el desafío para los empresarios colombianos y los usuarios que de una u otra manera se encuentran involucrados en las empresas. Estos son: los colaboradores de las áreas administrativa, financiera, tecnológica y de talento humano. Todos tuvieron que ser capacitados y entrenados con el nuevo marco normativo para iniciar el proceso de implementación de acuerdo con los estándares establecidos.
 
@@ -1119,7 +1115,7 @@
               li.d-flex
                 i.fa-solid.fa-chevron-right
                 |
-                p.mb-0 Entidades que tengan activos totales superiores a treinta mil (30.000) SMMLV o planta de personal superior a doscientos (200) trabajadores; que no sean emisores de valores ni entidades de interés público
+                p.mb-0 Entidades que tengan activos totales superiores a treinta mil (30.000) SMMLV o planta de personal superior a doscientos (200) trabajadores; que no sean emisores de valores ni entidades de interés público.
 
 
             p #[b Grupo 2 - NIIF para Pymes]
@@ -1135,12 +1131,12 @@
               li.d-flex
                 i.fa-solid.fa-chevron-right
                 |
-                p.mb-0 Empresas que tengan Activos totales por valor entre quinientos (500) y treinta mil (30.000) SMMLV' o planta de personal entre once (11) y doscientos (200) trabajadores, y que no sean emisores de valores ni entidades de interés público.
+                p.mb-0 Empresas que tengan activos totales por valor entre quinientos (500) y treinta mil (30.000) SMMLV' o planta de personal entre once (11) y doscientos (200) trabajadores, y que no sean emisores de valores ni entidades de interés público.
 
               li.d-flex
                 i.fa-solid.fa-chevron-right
                 |
-                p.mb-0 Microempresas que tengan Activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o planta de personal no superior a los (10) trabajadores, y cuyos ingresos brutos anuales sean iguales o superiores a 6.000 SMMLV'.
+                p.mb-0 Microempresas que tengan activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o planta de personal no superior a los (10) trabajadores, y cuyos ingresos brutos anuales sean iguales o superiores a 6.000 SMMLV'.
 
               li.d-flex
                 i.fa-solid.fa-chevron-right
@@ -1160,7 +1156,7 @@
               li.d-flex
                 i.fa-solid.fa-chevron-right
                 |
-                p.mb-0 Microempresas que tengan Activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o Planta de personal no superior a los diez (10) trabajadores que no cumplan con los requisitos para ser incluidas en el grupo 2 ni en el literal anterior.
+                p.mb-0 Microempresas que tengan activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o planta de personal no superior a los diez (10) trabajadores que no cumplan con los requisitos para ser incluidas en el grupo 2 ni en el literal anterior.
 
 
     .row.align-items-center.mt-4

@@ -16,7 +16,7 @@
           
           .col-xl.d-flex
             .p-4.w-100.d-flex.align-items-center
-              p.mb-0 Antes de hablar de empresa, sociedad y su clasificación, es importante enforcarse en el tema de comerciantes; sus deberes, derechos y obligaciones. Teniendo en cuenta que a partir de aquí comienzan a configurarse las actividades que se consideran mercantiles y son ejercidas por los comerciantes, se verán reflejadas en el momento de crear la empresa de acuerdo con el marco normativo vigente.
+              p.mb-0 Antes de hablar de empresa, sociedad y su clasificación, es importante enfocarse en el tema de comerciantes; sus deberes, derechos y obligaciones. Teniendo en cuenta que a partir de aquí comienzan a configurarse las actividades que se consideran mercantiles y son ejercidas por los comerciantes, se verán reflejadas en el momento de crear la empresa de acuerdo con el marco normativo vigente.
     
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
@@ -25,7 +25,7 @@
     p El concepto de comerciante, según el Código de Comercio, se define por el ejercicio profesional de actividades mercantiles, independientemente de si se actúa directamente o a través de terceros. La calidad de comerciante implica cumplir ciertos requisitos, como el registro en la Cámara de Comercio y la disponibilidad de un establecimiento abierto al público. Con la globalización y el avance tecnológico, el comercio ha evolucionado, dando paso a estrategias de marketing innovadoras y al auge del comercio electrónico, facilitado por dispositivos móviles y plataformas digitales.
 
     .video
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/3KDDv2LrIcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/wCN8MwqenJg?si=yGxzWF-399l5Z0gO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
@@ -170,7 +170,7 @@
       p.mt-4 El ejercicio del comercio implica cumplir con una serie de trámites legales que garantizan el cumplimiento normativo y la operatividad empresarial. Desde la verificación del nombre de la empresa hasta la afiliación de colaboradores a la seguridad social, cada paso es clave para el reconocimiento legal y la protección de los derechos comerciales, tributarios y laborales. Este proceso no solo facilita la formalización de los negocios, sino que también contribuye a un entorno empresarial más seguro y regulado.
 
       .video.mb-5
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/3KDDv2LrIcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/n5Bv63FxmNY?si=qDXawDi9lK-DVoFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .separador
     #t_1_3.titulo-segundo.color-acento-contenido
@@ -270,7 +270,7 @@
 
                       li.d-flex
                         i.bg-icon-ul
-                        p.mb-0.ms-2 Diligenciar el Formulario RUES.
+                        p.mb-0.ms-2 Diligenciar el formulario RUES.
 
                       li.d-flex
                         i.bg-icon-ul
@@ -294,7 +294,7 @@
                     ul.lista-ul--color
                       li.d-flex
                         i.bg-icon-ul
-                        p.mb-0.ms-2 Diligenciar el Formulario RUES.
+                        p.mb-0.ms-2 Diligenciar el formulario RUES.
 
                       li.d-flex
                         i.bg-icon-ul
@@ -322,7 +322,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-7
 
-        p.bg-t1-5.p-4 De acuerdo con el Código de Comercio “Las cámaras de comercio son instituciones de orden legal con personería jurídica, creadas por el Gobierno Nacional, de oficio o a petición de los comerciantes del territorio donde hayan de operar. Dichas entidades serán representadas por sus respectivos presidentes” (Secretaría del Senado, 2020. Art 78).
+        p.bg-t1-5.p-4 De acuerdo con el Código de Comercio, “Las cámaras de comercio son instituciones de orden legal con personería jurídica, creadas por el Gobierno Nacional, de oficio o a petición de los comerciantes del territorio donde hayan de operar. Dichas entidades serán representadas por sus respectivos presidentes” (Secretaría del Senado, 2020. Art. 78).
 
         p.mt-2 Estas instituciones tienen como objetivo llevar la matrícula de los comerciantes y sus establecimientos. En el Art. 86 del Código de Comercio (Secretaría del Senado, 2020), se establecen las siguientes funciones a las cámaras de comercio:
 
@@ -408,7 +408,7 @@
                 img(src='@/assets/curso/tema1/img27.svg', style="width:95px").m-auto
 
           p.text-center.mb-4.bg-c6 #[b 01]
-          p.text-center.mb-0 La adquisición de bienes para enajenarlos o arrendarlos, dedicadas a la comercialización
+          p.text-center.mb-0 La adquisición de bienes para enajenarlos o arrendarlos, dedicadas a la comercialización.
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.bg-t1-6.p-4.tarj-t1
