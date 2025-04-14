@@ -169,7 +169,8 @@ export default {
       referencia:
         'Presidencia de la República de Colombia. (1992, marzo 11). Decreto 474 de 1992: Por el cual se adiciona el Decreto 1252 de 1990 sobre cámaras de comercio. Diario Oficial No. 40.346.',
       tipo: 'Página web',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1744550',
+      link:
+        'https://compilacionjuridica.antioquia.gov.co/compilacion/compilacion/docs/decreto_0474_1992.htm',
     },
     {
       tema: 'Cámara de Comercio: actos mercantiles',
