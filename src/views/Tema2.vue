@@ -870,11 +870,8 @@
     .row.mt-4.align-items-center
       .col-lg-6
         .row.mb-2.ms-0
-          .col-auto.bg-c3(data-aos="fade-left")
+          .col-auto.bg-c5(data-aos="fade-left")
             .row.align-items-center
-              .col-auto.px-0
-                figure
-                  img(src='@/assets/curso/tema1/icon1.svg', alt='', style='width: 60px')
               .col
                 h3.mb-0 Liquidación de una sociedad 
 
@@ -969,7 +966,7 @@
     p Para constituir una empresa es importante dar cumplimiento a los requisitos comerciales, laborales, tributarios y de funcionamiento; sin olvidar, aplicar adecuadamente las Normas Internacionales de Información Financiera (NIIF) para llevar a cabo el proceso contable de forma satisfactoria.  A continuación, se relacionan los diversos requisitos, los cuales aplican de acuerdo con el tipo de empresa que se desea constituir:
 
     TabsC.color-acento-contenido
-      .py-3.py-md-4.bg-t2-9(titulo="Comerciales")
+      .py-3.py-md-4.bg-t2-9(titulo="Normas comerciales")
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0.p-5
             h4 Normas comerciales
@@ -1050,7 +1047,7 @@
                 |
                 p.mb-0 Presentar oportunamente las declaraciones de retención en la fuente por renta, IVA y de ICA, teniendo en cuenta la norma vigente y si cumple con los requisitos para realizarlo.
 
-      .py-3.py-md-4.bg-t2-9(titulo="Funcionamiento")
+      .py-3.py-md-4.bg-t2-9(titulo="Normas de funcionamiento")
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0.p-5
             h4 Normas de funcionamiento
@@ -1076,7 +1073,7 @@
                 p.mb-0 Solicitar paz y salvo de Sayco y Acinpro para el pago de derechos de autor e intérpretes musicales.
 
 
-      .py-3.py-md-4.bg-t2-9(titulo="Información financiera")
+      .py-3.py-md-4.bg-t2-9(titulo="Normas de información financiera")
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0.p-5
             h4 Normas de información financiera

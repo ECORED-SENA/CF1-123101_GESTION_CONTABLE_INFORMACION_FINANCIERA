@@ -16,7 +16,11 @@
       .col-lg-5.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema3/img1.png', alt='', style="width: 480px").m-auto
+ 
 
+    .titulo-sexto.color-acento-contenido.mb-3
+      h5 Tabla 1.
+      span Aportes de las principales teorías de la administración
 
     .tabla-a.color-acento-contenido.mt-4 
       table
@@ -27,34 +31,34 @@
             th Aportes
         tbody(style="background-color: #F6F6F6")
           tr
-            td Administración científica
-            td Frederick Taylor, Henry Lawrence Gantt, Robinson Towne, Henry Metcalf.
-            td Se da importancia al manejo de incentivos, selección del personal.
+            td.text-start Administración científica
+            td.text-start Frederick Taylor, Henry Lawrence Gantt, Robinson Towne, Henry Metcalf.
+            td.text-start Se da importancia al manejo de incentivos, selección del personal.
           tr
-            td Teoría Clásica
-            td Henri Fayol.
-            td Desarrolla las áreas funcionales que debe tener la organización. De igual manera se establecen los 14 principios de administración relacionados con la organización del trabajo y especialización del trabajador.
+            td.text-start Teoría clásica
+            td.text-start Henri Fayol.
+            td.text-start Desarrolla las áreas funcionales que debe tener la organización. De igual manera se establecen los 14 principios de administración relacionados con la organización del trabajo y especialización del trabajador.
           tr
-            td Escuela Humanista
-            td George Elton Mayo, Roberto Owen.
-            td Tiene énfasis en los valores humanos, motivación, liderazgo y estudio de las necesidades del personal.
+            td.text-start Escuela humanista
+            td.text-start George Elton Mayo, Roberto Owen.
+            td.text-start Tiene énfasis en los valores humanos, motivación, liderazgo y estudio de las necesidades del personal.
 
           tr 
-            td Enfoque estructuralista
-            td Renate Mayntz, Etzioni Amitai.
-            td Relaciona los tipos de autoridad, estructura de las organizaciones, descentralización, manejo de conflictos, busca interrelacionar las empresas con el entorno.
+            td.text-start Enfoque estructuralista
+            td.text-start Renate Mayntz, Etzioni Amitai.
+            td.text-start Relaciona los tipos de autoridad, estructura de las organizaciones, descentralización, manejo de conflictos, busca interrelacionar las empresas con el entorno.
 
           tr 
-            td Escuela Neoclásica
-            td Peter Drucker, Lawrence Appley, George Terry.
-            td Tienen en cuenta la administración por objetivos, profundización en el proceso administrativo. Hace énfasis al modelo actual.
+            td.text-start Escuela neoclásica
+            td.text-start Peter Drucker, Lawrence Appley, George Terry.
+            td.text-start Tienen en cuenta la administración por objetivos, profundización en el proceso administrativo. Hace énfasis al modelo actual.
 
     .row.align-items-center.justify-content-center.p-4.mt-4.bg-t1-3
       .col-lg-2
         figure
           img(src="@/assets/curso/tema3/img2.svg", alt="", style="width: 88px").m-auto
       .col-lg-10
-        p Actualmente, existen otros enfoques que contribuyen notoriamente con las necesidades de las organizaciones y su entorno, entre ellas se encuentran: Benchmarking, Calidad total, Empowerment, Downsizing, Coaching, Balanced Scorecard y Teorías de restricciones, las cuales dan respuesta a los criterios de eficiencia, eficacia y valor agregado (Angulo, 2018; Münch, 2015; Sánchez, 2015; Vilches, 2019).
+        p Actualmente, existen otros enfoques que contribuyen notoriamente con las necesidades de las organizaciones y su entorno, entre ellas se encuentran: <em>Benchmarking</em>, Calidad total, <em>Empowerment</em>, <em>Downsizing</em>, <em>Coaching</em>, <em>Balanced Scorecard</em> y Teorías de restricciones, las cuales dan respuesta a los criterios de eficiencia, eficacia y valor agregado (Angulo, 2018; Münch, 2015; Sánchez, 2015; Vilches, 2019).
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
@@ -153,7 +157,7 @@
                       img(src='@/assets/curso/tema3/img11.png')
 
                   .col-md-7.mb-4.mb-md-0
-                    p #[b Filosofía:] 
+                    p #[b Filosofía] 
                     p Son los valores y principios que aplica la empresa en el desarrollo de su objeto social, ratificando el compromiso con la sociedad.
 
                 .row.justify-content-center.align-items-center.my-lg-4
@@ -171,7 +175,7 @@
                       img(src='@/assets/curso/tema3/img13.png')
 
                   .col-md-7.mb-4.mb-md-0
-                    p #[b Visión: ] 
+                    p #[b Visión] 
                     p Es lo que se espera en un futuro, por ello se implementan estrategias que contribuyan a los resultados esperados. Es importante que sea inspiradora y se actualice conforme los cambios del entorno.
 
                 .row.justify-content-center.align-items-center.my-lg-4
@@ -180,7 +184,7 @@
                       img(src='@/assets/curso/tema3/img14.png')
 
                   .col-md-7.mb-4.mb-md-0
-                    p #[b Objetivos estratégicos: ] 
+                    p #[b Objetivos estratégicos] 
                     p Deben ser medibles y cuantificables en el tiempo, hace referencia a los resultados específicos por alcanzar.
 
                 .row.justify-content-center.align-items-center.my-lg-4
@@ -189,7 +193,7 @@
                       img(src='@/assets/curso/tema3/img15.png')
 
                   .col-md-7.mb-4.mb-md-0
-                    p #[b Políticas: ] 
+                    p #[b Políticas ] 
                     p Son los lineamientos que diseña e implementa la empresa para el desarrollo de las diferentes actividades empresariales. Tienen enfoque tecnológico, talento humano, ambiental, etc.
 
                 .row.justify-content-center.align-items-center.my-lg-4
@@ -198,7 +202,7 @@
                       img(src='@/assets/curso/tema3/img16.png')
 
                   .col-md-7.mb-4.mb-md-0
-                    p #[b Estrategias: ] 
+                    p #[b Estrategias ] 
                     p Son las acciones que se implementan para el cumplimiento de objetivos.
 
                 .row.justify-content-center.align-items-center.my-lg-4
@@ -207,7 +211,7 @@
                       img(src='@/assets/curso/tema3/img17.png')
 
                   .col-md-7.mb-4.mb-md-0
-                    p #[b Programas: ] 
+                    p #[b Programas] 
                     p Relaciona el conjunto de actividades, responsable, tiempo y recursos involucrados para llevar a cabo las estrategias.
 
                 .row.justify-content-center.align-items-center.my-lg-4
@@ -216,7 +220,7 @@
                       img(src='@/assets/curso/tema3/img18.png')
 
                   .col-md-7.mb-4.mb-md-0
-                    p #[b Presupuestos: ] 
+                    p #[b Presupuestos ] 
                     p Aquí se definen los recursos en términos cuantificables para llevar a cabo los programas que contribuyan a alcanzar los objetivos.
 
 
@@ -242,7 +246,7 @@
                       img(src='@/assets/curso/tema3/img19.png', alt="Diagrama jerárquico con Gerente general, Subgerente y Jefe de departamento en tres niveles.")
 
                   .col-md-7.mb-4.mb-md-0
-                    p #[b Lineal o militar:] 
+                    p #[b Lineal o militar] 
                     p Las decisiones son tomadas por una persona, por lo que se dice que la autoridad en la empresa es ejercida por ésta, a quien los subalternos le entregan reportes de las actividades realizadas.
 
                 .row.justify-content-center.align-items-center.my-lg-4
@@ -260,13 +264,13 @@
                       img(src='@/assets/curso/tema3/img21.png', alt="Estructura organizacional con un Director Ejecutivo a la cabeza y cuatro direcciones: Planta, Ventas, Servicios y Finanzas. La Dirección de Ventas se divide en Equipos Industriales y Ventas de Consumo.")
 
                   .col-md-7.mb-4.mb-md-0
-                    p #[b Staff] 
+                    p #[b #[i Staff]] 
                     p En esta estructura se combina la autoridad directa con la asesoría de un profesional para llevar a cabo los procesos organizacionales.
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
                     figure
-                      img(src='@/assets/curso/tema3/img22.png', alt="")
+                      img(src='@/assets/curso/tema3/img22.png', alt="Estructura organizacional con un Director Ejecutivo a la cabeza y cuatro direcciones: Planta, Ventas, Servicios y Finanzas. La Dirección de Ventas se divide en Equipos Industriales y Ventas de Consumo.")
 
                   .col-md-7.mb-4.mb-md-0
                     p #[b Matricial] 

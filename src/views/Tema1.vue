@@ -252,7 +252,7 @@
                       img(src='@/assets/curso/tema1/img17.png')
 
                   .col-md-7.mb-4.mb-md-0
-                    p #[b Razón comercial: ] 
+                    p #[b Razón comercial] 
                     p Es el nombre que se asigna a la empresa, para darse a conocer ante el público o mercado. Ejemplo: Totto es el nombre comercial y su razón social es Nalsani SAS.
 
                 .row.justify-content-center.align-items-center.my-lg-4
