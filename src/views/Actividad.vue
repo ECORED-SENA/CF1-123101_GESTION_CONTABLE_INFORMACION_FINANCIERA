@@ -22,6 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> Evaluar la normatividad y los procesos de formalización empresarial en Colombia, incluyendo conceptos clave sobre comerciantes, empresas, sociedades, obligaciones legales y requisitos administrativos.',
       barajarPreguntas: true,
+      titulo_aprobado: '¡BUEN TRABAJO!..',
+      titulo_reprobado: 'VUELVA A INTENTARLO..',
       preguntas: [
         {
           id: 1,
