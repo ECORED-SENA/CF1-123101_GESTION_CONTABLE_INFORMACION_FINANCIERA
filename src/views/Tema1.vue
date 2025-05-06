@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Comerciante
+      h1(data-aos="fade-left") Comerciante
 
     .row.justify-content-center.mb-5
       .col-lg-12(data-aos="fade-down")
         .row.d-flex.align-items-stretch.bg-t1-1
           .col-xl-auto.pe-xl-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
-            figure.m-0.p-0.w-100.h-100.d-flex
+            figure.m-0.p-0.w-100.h-100.d-flex(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/img1.png', alt='', class="w-100 h-100 object-fit-cover" style="margin-left: -10px;")
           
           .col-xl.d-flex
@@ -20,16 +20,16 @@
     
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1 Concepto y calidad
+      h2(data-aos="fade-left") 1.1 Concepto y calidad
 
-    p El concepto de comerciante, según el Código de Comercio, se define por el ejercicio profesional de actividades mercantiles, independientemente de si se actúa directamente o a través de terceros. La calidad de comerciante implica cumplir ciertos requisitos, como el registro en la Cámara de Comercio y la disponibilidad de un establecimiento abierto al público. Con la globalización y el avance tecnológico, el comercio ha evolucionado, dando paso a estrategias de marketing innovadoras y al auge del comercio electrónico, facilitado por dispositivos móviles y plataformas digitales.
+    p(data-aos="fade-left") El concepto de comerciante, según el Código de Comercio, se define por el ejercicio profesional de actividades mercantiles, independientemente de si se actúa directamente o a través de terceros. La calidad de comerciante implica cumplir ciertos requisitos, como el registro en la Cámara de Comercio y la disponibilidad de un establecimiento abierto al público. Con la globalización y el avance tecnológico, el comercio ha evolucionado, dando paso a estrategias de marketing innovadoras y al auge del comercio electrónico, facilitado por dispositivos móviles y plataformas digitales.
 
     .video
       iframe(width="560" height="315" src="https://www.youtube.com/embed/wCN8MwqenJg?si=yGxzWF-399l5Z0gO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2 Deberes, derechos y obligaciones
+      h2(data-aos="fade-left") 1.2 Deberes, derechos y obligaciones
 
     p De acuerdo con el Código de Comercio es obligación de todo comerciante:
 
@@ -154,7 +154,7 @@
                       p.mb-0 Pactos desleales de exclusividad.
 
             .col-lg-6.d-none.d-lg-block 
-              figure
+              figure(data-aos="fade-left")
                 img(src='@/assets/curso/tema1/img9.png', alt='', style="width: 624px").m-auto
 
 
@@ -162,7 +162,7 @@
       .col-auto.bg-c3(data-aos="fade-left")
         .row.align-items-center
           .col-auto.px-0
-            figure
+            figure(data-aos="fade-up")
               img(src='@/assets/curso/tema1/icon1.svg', alt='', style='width: 60px')
           .col
             h3.mb-0 Trámites legales para ejercer el comercio
@@ -174,7 +174,7 @@
 
     .separador
     #t_1_3.titulo-segundo.color-acento-contenido
-      h2 1.3 Registro mercantil
+      h2(data-aos="fade-left") 1.3 Registro mercantil
 
     .row.justify-content-center.align-items-center
       .col-lg-7
@@ -194,7 +194,7 @@
               SlyderA(tipo="b")
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="fade-down")
                       img(src='@/assets/curso/tema1/img11.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -203,7 +203,7 @@
                   
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="zoom-in")
                       img(src='@/assets/curso/tema1/img12.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -212,7 +212,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="fade-left")
                       img(src='@/assets/curso/tema1/img13.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -221,7 +221,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="fade-up")
                       img(src='@/assets/curso/tema1/img14.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -230,7 +230,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="fade-down")
                       img(src='@/assets/curso/tema1/img15.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -239,7 +239,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="zoom-in")
                       img(src='@/assets/curso/tema1/img16.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -248,7 +248,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="zoom-in")
                       img(src='@/assets/curso/tema1/img17.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -257,7 +257,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="zoom-in")
                       img(src='@/assets/curso/tema1/img18.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -286,7 +286,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="zoom-in")
                       img(src='@/assets/curso/tema1/img19.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -317,7 +317,7 @@
 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido
-      h2 1.4 Cámara de Comercio: actos mercantiles
+      h2(data-aos="fade-left") 1.4 Cámara de Comercio: actos mercantiles
 
     .row.justify-content-center.align-items-center
       .col-lg-7
@@ -327,7 +327,7 @@
         p.mt-2 Estas instituciones tienen como objetivo llevar la matrícula de los comerciantes y sus establecimientos. En el Art. 86 del Código de Comercio (Secretaría del Senado, 2020), se establecen las siguientes funciones a las cámaras de comercio:
 
       .col-lg-5.d-none.d-lg-block
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img20.png', alt='', style="width: 480px").m-auto
 
     .row.mt-4.align-items-center
@@ -392,7 +392,7 @@
       .col-auto.bg-c3(data-aos="fade-left")
         .row.align-items-center
           .col-auto.px-0
-            figure
+            figure(data-aos="fade-down")
               img(src='@/assets/curso/tema1/icon1.svg', alt='', style='width: 60px')
           .col
             h3.mb-0 De los actos, operaciones y empresas mercantiles
@@ -404,7 +404,7 @@
         .tarjeta--boton.bg-t1-6.p-4.tarj-t1
           .row.justify-content-center.mb-3
             .col-7
-              figure
+              figure(data-aos="fade-down")
                 img(src='@/assets/curso/tema1/img27.svg', style="width:95px").m-auto
 
           p.text-center.mb-4.bg-c6 #[b 01]
@@ -414,7 +414,7 @@
         .tarjeta--boton.bg-t1-6.p-4.tarj-t1
           .row.justify-content-center.mb-3
             .col-7
-              figure
+              figure(data-aos="fade-down")
                 img(src='@/assets/curso/tema1/img28.svg', style="width:95px").m-auto
 
           p.text-center.mb-4.bg-c6 #[b 02]
@@ -424,7 +424,7 @@
         .tarjeta--boton.bg-t1-6.p-4.tarj-t1
           .row.justify-content-center.mb-3
             .col-7
-              figure
+              figure(data-aos="fade-down")
                 img(src='@/assets/curso/tema1/img29.svg', style="width:95px").m-auto
 
           p.text-center.mb-4.bg-c6 #[b 03]
@@ -434,7 +434,7 @@
         .tarjeta--boton.bg-t1-6.p-4.tarj-t1
           .row.justify-content-center.mb-3
             .col-7
-              figure
+              figure(data-aos="fade-down")
                 img(src='@/assets/curso/tema1/img30.svg', style="width:95px").m-auto
 
           p.text-center.mb-4.bg-c6 #[b 04]
@@ -453,7 +453,7 @@
                 .anexo__texto
                   p #[b Enlace web]. Código de comercio 
             .col-lg-6.d-none.d-lg-block
-              figure
+              figure(data-aos="fade-down")
                 img(src='@/assets/curso/tema1/img31.png', alt='', style="width: 610px").m-auto
 
 

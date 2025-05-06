@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Administración
+      h1(data-aos="fade-left") Administración
 
     .row.align-items-center.justify-content-center
       .col-lg-7 
@@ -14,7 +14,7 @@
         p El desarrollo de la administración ha estado marcado por diversas corrientes teóricas que han contribuido a la evolución de la gestión organizacional. Desde la administración científica hasta la escuela neoclásica, cada enfoque ha aportado principios clave que han permitido mejorar la eficiencia, la estructura y la toma de decisiones en las organizaciones. La siguiente tabla presenta una comparación de estas teorías, sus principales exponentes y los aportes que han dejado en la gestión empresarial.
 
       .col-lg-5.d-none.d-lg-block
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema3/img1.png', alt='', style="width: 480px").m-auto
  
 
@@ -55,7 +55,7 @@
 
     .row.align-items-center.justify-content-center.p-4.mt-4.bg-t1-3
       .col-lg-2
-        figure
+        figure(data-aos="fade-down")
           img(src="@/assets/curso/tema3/img2.svg", alt="", style="width: 88px").m-auto
       .col-lg-10
         p Actualmente, existen otros enfoques que contribuyen notoriamente con las necesidades de las organizaciones y su entorno, entre ellas se encuentran: <em>Benchmarking</em>, Calidad total, <em>Empowerment</em>, <em>Downsizing</em>, <em>Coaching</em>, <em>Balanced Scorecard</em> y Teorías de restricciones, las cuales dan respuesta a los criterios de eficiencia, eficacia y valor agregado (Angulo, 2018; Münch, 2015; Sánchez, 2015; Vilches, 2019).
@@ -122,7 +122,7 @@
             .col-auto.bg-c3(data-aos="fade-left")
               .row.align-items-center
                 .col-auto.px-0
-                  figure
+                  figure(data-aos="fade-left")
                     img(src='@/assets/curso/tema1/icon1.svg', alt='', style='width: 60px')
                 .col
                   h3.mb-0 Proceso administrativo
@@ -134,7 +134,7 @@
                   .p-4.w-100.d-flex.align-items-center
                     p.mb-0 El proceso administrativo es el conjunto de pasos que se aplican en una empresa para llevar a cabo una actividad que contribuya al cumplimiento de los objetivos propuestos. Las etapas que lo integran son: planeación, organización, dirección y control (Angulo, 2018; Münch, 2015; Sánchez, 2015; Vilches, 2019; Fayol, 1971).
                 .col-xl-auto.pe-xl-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
-                  figure.m-0.p-0.w-100.h-100.d-flex
+                  figure.m-0.p-0.w-100.h-100.d-flex(data-aos="zoom-in")
                     img(src='@/assets/curso/tema3/img10.png', alt='', class="w-100 h-100 object-fit-cover")
 
     .row.mb-2.ms-0.mt-4
@@ -153,7 +153,7 @@
               SlyderA(tipo="b")
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="fade-down")
                       img(src='@/assets/curso/tema3/img11.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -162,7 +162,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="fade-down")
                       img(src='@/assets/curso/tema3/img12.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -180,7 +180,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="fade-left")
                       img(src='@/assets/curso/tema3/img14.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -189,7 +189,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="zoom-in")
                       img(src='@/assets/curso/tema3/img15.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -198,7 +198,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="fade-down")
                       img(src='@/assets/curso/tema3/img16.png')
 
                   .col-md-7.mb-4.mb-md-0
@@ -242,7 +242,7 @@
               SlyderA(tipo="b")
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="fade-left")
                       img(src='@/assets/curso/tema3/img19.png', alt="Diagrama jerárquico con Gerente general, Subgerente y Jefe de departamento en tres niveles.")
 
                   .col-md-7.mb-4.mb-md-0
@@ -251,7 +251,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="zoom-in")
                       img(src='@/assets/curso/tema3/img20.png', alt="Estructura jerárquica con Gerente de planta, Jefe de producción y tres áreas: Compras, Proceso y Producto terminado.")
 
                   .col-md-7.mb-4.mb-md-0
@@ -260,7 +260,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="fade-down")
                       img(src='@/assets/curso/tema3/img21.png', alt="Estructura organizacional con un Director Ejecutivo a la cabeza y cuatro direcciones: Planta, Ventas, Servicios y Finanzas. La Dirección de Ventas se divide en Equipos Industriales y Ventas de Consumo.")
 
                   .col-md-7.mb-4.mb-md-0
@@ -269,7 +269,7 @@
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
-                    figure
+                    figure(data-aos="fade-down")
                       img(src='@/assets/curso/tema3/img22.png', alt="Estructura organizacional con un Director Ejecutivo a la cabeza y cuatro direcciones: Planta, Ventas, Servicios y Finanzas. La Dirección de Ventas se divide en Equipos Industriales y Ventas de Consumo.")
 
                   .col-md-7.mb-4.mb-md-0
@@ -287,7 +287,7 @@
       .col-lg-7 
         p.p-5.bg-t2-4  En esta etapa se materializan los planes y programas, teniendo en cuenta la asignación de recursos, responsables, tiempo y actividades establecidas en la etapa de planeación. Para llevar a cabo el proceso de forma satisfactoria se requiere de habilidades como liderazgo, comunicación asertiva, trabajo en equipo, motivación, actitud, responsabilidad, administración de tiempo, innovación, creatividad, disciplina y cultura organizacional. Es por esto, que es importante seleccionar cuidadosamente el personal que ejecutará los planes propuestos (Angulo, 2018; Münch, 2015; Sánchez, 2015; Vilches, 2019; Fayol, 1971). 
       .col-lg-5.d-none.d-lg-block
-        figure
+        figure(data-aos="fade-left")
           img(src='@/assets/curso/tema3/img23.png', alt='', style="width: 480px").m-auto
 
     .row.mb-2.ms-0.mt-4
@@ -298,7 +298,7 @@
 
     .row.align-items-center.justify-content-center.mt-4
       .col-lg-5.d-none.d-lg-block
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema3/img24.png', alt='', style="width: 480px").m-auto
       .col-lg-7 
         p.p-5.bg-t2-7  Esta etapa es muy importante en el proceso administrativo, pues se verifica que los programas se hayan desarrollado conforme a lo planeado, teniendo en cuenta el manejo de recursos de forma eficiente. Además, permite observar las posibles desviaciones, con el fin de implementar acciones correctivas o preventivas que ayuden a alcanzar los objetivos (Angulo, 2018; Münch, 2015; Sánchez, 2015; Vilches, 2019).  
@@ -332,7 +332,7 @@
 
 
           .col-xl-auto.pe-xl-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
-            figure.m-0.p-0.w-100.h-100.d-flex
+            figure.m-0.p-0.w-100.h-100.d-flex(data-aos="fade-down")
               img(src='@/assets/curso/tema3/img25.png', alt='', class="w-100 h-100 object-fit-cover")
 
 

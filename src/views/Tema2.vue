@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 La empresa
+      h1(data-aos="fade-left") La empresa
 
     .row.justify-content-center.mb-5
       .col-lg-12(data-aos="fade-down")
@@ -103,7 +103,7 @@
                         li.d-flex
                           i.fa-solid.fa-chevron-right
                           |
-                          p.mb-0 Realizar importaciones (pagos al exterior) o exportaciones (ingresos del exterior) que representen más del 50% de las compras o de las ventas respectivamente (Sistema Único de Información Normativa, 2020).
+                          p.mb-0 Realizar importaciones (pagos al exterior) o exportaciones (ingresos del exterior) que representen más del 50 % de las compras o de las ventas respectivamente (Sistema Único de Información Normativa, 2020).
                   .row.justify-content-center
                     .col-11
                       p.mt-4 #[b Grupo 2:] son las empresas que aplican las NIIF para pymes. De acuerdo con el decreto 2420 y 2496 de 2015, son: empresas que tengan activos totales por valor entre quinientos (500) y treinta mil (30.000) SMMLV o planta de personal entre once (11) y doscientos (200) trabajadores, y que no sean emisores de valores ni entidades de interés público. Microempresas que tengan activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o planta de personal no superior a los (10) trabajadores, y cuyos ingresos brutos anuales sean iguales o superiores a 6.000 SMMLV (Sistema Único de Información Normativa, 2020).
@@ -514,7 +514,7 @@
 
                       p Cuando ocurran pérdidas que reduzcan el patrimonio neto a menos del cincuenta por ciento, del capital suscrito.
 
-                      p Cuando el 95% o más de las acciones suscritas pertenezcan a un solo socio.
+                      p Cuando el 95 % o más de las acciones suscritas pertenezcan a un solo socio.
 
 
                 div(titulo="Sociedad por acciones simplificada")
