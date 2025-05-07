@@ -7,7 +7,7 @@
         span 2
       h1(data-aos="fade-left") La empresa
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-up")
       .col-lg-12(data-aos="fade-down")
         .row.d-flex.align-items-stretch.bg-t1-1
           .col-xl.d-flex
@@ -19,9 +19,9 @@
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1 Definición, clasificaciones, naturaleza y estructura de las organizaciones
+      h2(data-aos="zoom-in") 2.1 Definición, clasificaciones, naturaleza y estructura de las organizaciones
 
-    p Es fundamental comprender que una organización se estructura a partir de la integración de recursos financieros, tecnológicos y humanos con el propósito de desarrollar actividades mercantiles. Las empresas pueden clasificarse según su naturaleza y funciones, abarcando desde la comercialización de bienes hasta la prestación de servicios. Para su funcionamiento, requieren talento humano, inversión financiera y una distribución clara de tareas, elementos esenciales para alcanzar sus objetivos y garantizar su sostenibilidad en el mercado.
+    p(data-aos="fade-left") Es fundamental comprender que una organización se estructura a partir de la integración de recursos financieros, tecnológicos y humanos con el propósito de desarrollar actividades mercantiles. Las empresas pueden clasificarse según su naturaleza y funciones, abarcando desde la comercialización de bienes hasta la prestación de servicios. Para su funcionamiento, requieren talento humano, inversión financiera y una distribución clara de tareas, elementos esenciales para alcanzar sus objetivos y garantizar su sostenibilidad en el mercado.
 
     .video
       iframe(width="560" height="315" src="https://www.youtube.com/embed/yvEoYhSCaV8?si=ro-NMGiyiQHF2qZB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -41,7 +41,7 @@
           p.mt-2 Las empresas se clasifican de la siguiente manera (Angulo, 2018; Münch, 2015; Sánchez, 2015; Vilches, 2019; Warren, Reeves y Duchac, 2016; Cuaspa, 2013):
 
           .row.mt-2.justify-content-center
-            .col-lg-10
+            .col-lg-10(data-aos="fade-left")
               AcordionA(tipo="a" clase-tarjeta="tarjeta bg-t2-2")
                 .row.justify-content-center(titulo="Según su objetivo")
                   .col-lg-2.mb-4.mb-md-0
@@ -221,9 +221,9 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido
-      h2 2.2 Sociedad: concepto, clasificación, requisitos para constitución y liquidación
+      h2(data-aos="zoom-in") 2.2 Sociedad: concepto, clasificación, requisitos para constitución y liquidación
 
-    p La constitución de una sociedad es un paso fundamental en el ámbito empresarial, ya que permite la asociación de personas con el fin de realizar actividades mercantiles bajo una figura jurídica propia. Según el Código de Comercio, estas sociedades pueden clasificarse en diferentes tipos, cada una con características específicas que determinan su funcionamiento y responsabilidad legal. Comprender su concepto, clasificación y los requisitos para su constitución y liquidación es esencial para garantizar el cumplimiento normativo y el desarrollo sostenible de los negocios.
+    p(data-aos="fade-left") La constitución de una sociedad es un paso fundamental en el ámbito empresarial, ya que permite la asociación de personas con el fin de realizar actividades mercantiles bajo una figura jurídica propia. Según el Código de Comercio, estas sociedades pueden clasificarse en diferentes tipos, cada una con características específicas que determinan su funcionamiento y responsabilidad legal. Comprender su concepto, clasificación y los requisitos para su constitución y liquidación es esencial para garantizar el cumplimiento normativo y el desarrollo sostenible de los negocios.
 
     .row.mb-2.ms-0
       .col-auto.bg-c3(data-aos="fade-left")
@@ -253,7 +253,7 @@
           .col
             h3.mb-0 Clasificación
 
-    p De acuerdo con el Código de Comercio las sociedades se clasifican de la siguiente forma (Secretaría del Senado, 2020):
+    p(data-aos="fade-left") De acuerdo con el Código de Comercio las sociedades se clasifican de la siguiente forma (Secretaría del Senado, 2020):
 
     .row.bg-t2-5
       .col-12
@@ -589,7 +589,7 @@
           .col
             h3.mb-0 Requisitos para constitución
 
-    p.mt-3 De acuerdo con el Código de Comercio (Secretaría del Senado, 2020, Art. 110), se relacionan los requisitos para la constitución de una sociedad, la cual se realizará mediante escritura pública, relacionando:
+    p.mt-3(data-aos="fade-left") De acuerdo con el Código de Comercio (Secretaría del Senado, 2020, Art. 110), se relacionan los requisitos para la constitución de una sociedad, la cual se realizará mediante escritura pública, relacionando:
 
     .row.bg-t1-4.mt-4
       .col-12
@@ -727,7 +727,7 @@
     .row.bg-t2-6.mt-4
       .col-12
         .p-5
-          p De acuerdo con la Ley 1014 de 2006 (Secretaría del Senado, 2020), pueden constituirse sociedades pluripersonales bajo documento privado que reúna los siguientes requisitos:
+          p(data-aos="fade-left") De acuerdo con la Ley 1014 de 2006 (Secretaría del Senado, 2020), pueden constituirse sociedades pluripersonales bajo documento privado que reúna los siguientes requisitos:
           .row.align-items-center
             .col-lg-6
               .row.align-items-center.justify-content-center.row-equal-height2 
@@ -843,7 +843,7 @@
       
       .col-lg-4.d-none.d-lg-block
 
-        .figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img31.png', alt='', style="width: 350px").m-auto
 
       .col-lg-4 
@@ -879,12 +879,12 @@
         p.mt-2 La liquidación de una sociedad hace referencia a su terminación definitiva, la cual se deriva de las causales de disolución presentadas anteriormente; además, de las señaladas de forma específica, conforme con el tipo de sociedad constituida.
 
       .col-lg-6.d-none.d-lg-block
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img32.png', alt='', style="width: 480px").m-auto
 
     .row.mt-4.align-items-center
       .col-lg-5.d-none.d-lg-block
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img33.png', alt='', style="width: 480px").m-auto
 
       .col-lg-7
@@ -962,9 +962,9 @@
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido
-      h2 2.3 Normas comerciales, laborales, tributarias y de información financiera para la constitución de la empresa
+      h2(data-aos="zoom-in") 2.3 Normas comerciales, laborales, tributarias y de información financiera para la constitución de la empresa
 
-    p Para constituir una empresa es importante dar cumplimiento a los requisitos comerciales, laborales, tributarios y de funcionamiento; sin olvidar, aplicar adecuadamente las Normas Internacionales de Información Financiera (NIIF) para llevar a cabo el proceso contable de forma satisfactoria.  A continuación, se relacionan los diversos requisitos, los cuales aplican de acuerdo con el tipo de empresa que se desea constituir:
+    p(data-aos="fade-left") Para constituir una empresa es importante dar cumplimiento a los requisitos comerciales, laborales, tributarios y de funcionamiento; sin olvidar, aplicar adecuadamente las Normas Internacionales de Información Financiera (NIIF) para llevar a cabo el proceso contable de forma satisfactoria.  A continuación, se relacionan los diversos requisitos, los cuales aplican de acuerdo con el tipo de empresa que se desea constituir:
 
     TabsC.color-acento-contenido
       .py-3.py-md-4.bg-t2-9(titulo="Normas comerciales")
@@ -1169,7 +1169,7 @@
           .anexo__texto
             p #[b Enlace web]. Consejo Técnico de Contaduría Pública (CTCP)
       .col-lg-5.d-none.d-lg-block
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img35.png', alt='', style="width: 610px").m-auto
       
 
