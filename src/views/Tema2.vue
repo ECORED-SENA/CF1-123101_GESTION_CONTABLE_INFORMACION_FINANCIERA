@@ -218,6 +218,7 @@
 
                       p.mt-4 Cabe resaltar que el presente decreto empezó a regir a partir de diciembre de 2019, donde se constituye como criterio de clasificación los ingresos ordinarios del año inmediatamente anterior, los cuales corresponden a las ventas brutas anuales derivadas del objeto social. En caso de que los ingresos generados sean de diferentes sectores, se tendrá en cuenta el rango de los ingresos del sector económico más altos (MINCIT, 2020).
 
+
     separador
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2 Sociedad: concepto, clasificación, requisitos para constitución y liquidación
