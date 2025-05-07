@@ -5,11 +5,11 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1(data-aos="fade-left") Administración
+      h1(data-aos="zoom-in") Administración
 
     .row.align-items-center.justify-content-center
       .col-lg-7 
-        p.p-4.bg-t2-4 El término administración existe desde la época primitiva, donde se realizaban trabajos rudimentarios. Toma importancia a partir de la revolución industrial, atendiendo la necesidad de coordinar esfuerzos y organizar las actividades con el fin de generar productividad y eficiencia.
+        p.p-4.bg-t2-4(data-aos="fade-left") El término administración existe desde la época primitiva, donde se realizaban trabajos rudimentarios. Toma importancia a partir de la revolución industrial, atendiendo la necesidad de coordinar esfuerzos y organizar las actividades con el fin de generar productividad y eficiencia.
 
         p El desarrollo de la administración ha estado marcado por diversas corrientes teóricas que han contribuido a la evolución de la gestión organizacional. Desde la administración científica hasta la escuela neoclásica, cada enfoque ha aportado principios clave que han permitido mejorar la eficiencia, la estructura y la toma de decisiones en las organizaciones. La siguiente tabla presenta una comparación de estas teorías, sus principales exponentes y los aportes que han dejado en la gestión empresarial.
 
