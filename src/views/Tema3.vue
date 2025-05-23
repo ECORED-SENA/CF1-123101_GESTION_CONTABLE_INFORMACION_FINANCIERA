@@ -64,7 +64,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1 Principios básicos de áreas funcionales, planeación estratégica, organización, dirección y control
 
-    p Las organizaciones se estructuran en diversas áreas funcionales que permiten coordinar y optimizar sus operaciones. Estas áreas, definidas por Henri Fayol, abarcan funciones técnicas, comerciales, financieras, de seguridad, contables y administrativas, cada una con un rol específico dentro de la gestión empresarial. Su correcta aplicación contribuye a la eficiencia operativa y al cumplimiento de los objetivos organizacionales.
+    p Las organizaciones se estructuran en diversas áreas funcionales que permiten coordinar y optimizar sus operaciones. Estas áreas, definidas por Henri Fayol, abarcan funciones técnicas, comerciales, financieras, de seguridad, contables y administrativas, cada una con un rol específico dentro de la gestión empresarial. Su correcta aplicación contribuye a la eficiencia operativa y al cumplimiento de los objetivos organizacionales. Según la teoría clásica las áreas funcionales son las siguientes (Fayol, 1971):
 
     .row.bg-t1-2
       .col-12

@@ -25,7 +25,7 @@
     p(data-aos="fade-left") El concepto de comerciante, según el Código de Comercio, se define por el ejercicio profesional de actividades mercantiles, independientemente de si se actúa directamente o a través de terceros. La calidad de comerciante implica cumplir ciertos requisitos, como el registro en la Cámara de Comercio y la disponibilidad de un establecimiento abierto al público. Con la globalización y el avance tecnológico, el comercio ha evolucionado, dando paso a estrategias de marketing innovadoras y al auge del comercio electrónico, facilitado por dispositivos móviles y plataformas digitales.
 
     .video
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/wCN8MwqenJg?si=yGxzWF-399l5Z0gO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/Grpi6UZRWLM?si=btyjE1_LDnDWLJ3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido

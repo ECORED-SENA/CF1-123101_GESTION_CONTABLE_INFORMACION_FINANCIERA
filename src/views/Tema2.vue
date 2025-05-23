@@ -44,7 +44,7 @@
             .col-lg-10(data-aos="fade-left")
               AcordionA(tipo="a" clase-tarjeta="tarjeta bg-t2-2")
                 .row.justify-content-center(titulo="Según su objetivo")
-                  .col-lg-2.mb-4.mb-md-0
+                  .col-lg-2.mb-4.mb-lg-0
                     figure
                       img(src="@/assets/curso/tema2/img2.svg", alt="", style="width: 79px").m-auto
                   .col-lg-8
@@ -54,7 +54,7 @@
 
                 div(titulo="Según su actividad económica")
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img3.svg", alt="", style="width: 79px").m-auto
                     .col-lg-8
@@ -71,7 +71,7 @@
 
                 div(titulo="Según la procedencia de capital")
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img4.svg", alt="", style="width: 79px").m-auto
                     .col-lg-8
@@ -83,7 +83,7 @@
 
                 div(titulo="Según el grupo de presentación de información financiera")
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img5.svg", alt="", style="width: 79px").m-auto
                     .col-lg-8
@@ -112,7 +112,7 @@
 
                 div(titulo="Según Conformación del Capital")
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img6.svg", alt="", style="width: 79px").m-auto
                     .col-lg-8
@@ -126,7 +126,7 @@
 
                 div(titulo="Según su naturaleza")
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img7.svg", alt="", style="width: 79px").m-auto
                     .col-lg-8
@@ -136,7 +136,7 @@
 
                 div(titulo="Según el tamaño")
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img8.svg", alt="", style="width: 79px").m-auto
                     .col-lg-8
@@ -262,7 +262,7 @@
             .col-lg-10
               AcordionA(tipo="a" clase-tarjeta="tarjeta bg-t2-2")
                 .row.justify-content-center(titulo="Sociedad colectiva:")
-                  .col-lg-2.mb-4.mb-md-0
+                  .col-lg-2.mb-4.mb-lg-0
                     figure
                       img(src="@/assets/curso/tema2/img10.svg", alt="", style="width: 90px").m-auto
                   .col-lg-8
@@ -271,7 +271,7 @@
                     hr.hr-big
                 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -280,7 +280,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -289,7 +289,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -298,21 +298,21 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
                       p #[b Causales de disolución y liquidación (Secretaría del Senado, 2020, Art. 218).]
-                      p #[b Por muerte de alguno de los socios] si no se hubiere estipulado su continuación con uno o más de los herederos, o con los socios supérstites.
-                      p #[b Por incapacidad sobreviniente a alguno de los socios], a menos que se convenga que la sociedad continúe con los demás, o que acepten que los derechos del incapaz sean ejercidos por su representante;
+                      p #[b Por muerte de alguno de los socios], si no se hubiere estipulado su continuación con uno o más de los herederos, o con los socios supérstites.
+                      p #[b Por incapacidad sobreviniente a alguno de los socios], a menos que se convenga que la sociedad continúe con los demás, o que acepten que los derechos del incapaz sean ejercidos por su representante.
                       p #[b Por declaración de quiebra de alguno de los socios], si los demás no adquieren su interés social o no aceptan la cesión a un extraño, una vez requeridos por el síndico de la quiebra, dentro de los treinta días siguientes.
-                      p #[b Por enajenación forzada del interés de alguno de los socios] en favor de un extraño, si los demás asociados no se avienen dentro de los treinta días siguientes a continuar la sociedad con el adquirente, y
+                      p #[b Por enajenación forzada del interés de alguno de los socios], en favor de un extraño, si los demás asociados no se avienen dentro de los treinta días siguientes a continuar la sociedad con el adquirente.
                       p #[b Por renuncia o retiro justificado de alguno de los socios], si los demás no adquieren su interés en la sociedad o no aceptan su cesión a un tercero.
 
 
                 div(titulo="Sociedad en comandita simple")
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img10.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -321,7 +321,7 @@
                       hr.hr-big
                 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -330,7 +330,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -339,7 +339,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -348,7 +348,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -365,7 +365,7 @@
                   
                 div(titulo="Sociedad en comandita por acciones")
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img10.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -374,7 +374,7 @@
                       hr.hr-big
                 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -383,7 +383,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -392,7 +392,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -401,7 +401,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -418,7 +418,7 @@
 
                 div(titulo="Sociedad de responsabilidad limitada")
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img10.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -427,7 +427,7 @@
                       hr.hr-big
                 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -436,7 +436,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -445,7 +445,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -454,7 +454,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -469,7 +469,7 @@
 
                 div(titulo="Sociedad anónima")
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img10.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -478,7 +478,7 @@
                       hr.hr-big
                 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -487,7 +487,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -496,7 +496,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -505,7 +505,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -520,7 +520,7 @@
 
                 div(titulo="Sociedad por acciones simplificada")
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img10.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -529,7 +529,7 @@
                       hr.hr-big
                 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-8
@@ -538,7 +538,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -547,7 +547,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -556,7 +556,7 @@
                       hr.hr-big
 
                   .row.justify-content-center
-                    .col-lg-2.mb-4.mb-md-0
+                    .col-lg-2.mb-4.mb-lg-0
                       figure
                         img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 90px").m-auto
                     .col-lg-8
@@ -574,7 +574,7 @@
 
                       p Por voluntad de los accionistas adoptada en la asamblea o por decisión del accionista único.
 
-                      p Por orden de autoridad competente, y
+                      p Por orden de autoridad competente.
 
                       p Por pérdidas que reduzcan el patrimonio neto de la sociedad por debajo del cincuenta por ciento del capital suscrito.
 
@@ -861,7 +861,7 @@
           li.d-flex
             i.fa-solid.fa-chevron-right
             |
-            p.mb-0 Por decisión de autoridad competente en los casos expresamente previstos en las leyes, y
+            p.mb-0 Por decisión de autoridad competente en los casos expresamente previstos en las leyes.
 
           li.d-flex
             i.fa-solid.fa-chevron-right

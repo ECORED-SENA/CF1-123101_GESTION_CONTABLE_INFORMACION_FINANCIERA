@@ -173,14 +173,6 @@ export default {
         'https://compilacionjuridica.antioquia.gov.co/compilacion/compilacion/docs/decreto_0474_1992.htm',
     },
     {
-      tema: 'Cámara de Comercio: actos mercantiles',
-      referencia:
-        'Presidencia de la República de Colombia. (2020, diciembre 23). <em>Decreto 1754 de 2020: Por el cual se modifica el nombre de la Cámara de Comercio de Barrancabermeja, en cumplimiento del Decreto 1252 de 1990</em>. Diario Oficial No. 51.540.',
-      tipo: 'Página web',
-      link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=147524',
-    },
-    {
       tema:
         'Definición, clasificaciones, naturaleza y estructura de las organizaciones',
       referencia:
@@ -243,7 +235,7 @@ export default {
     {
       termino: 'Registro Único Tributario (RUT) ',
       significado:
-        'Es el documento que se tramita ente la Dirección de Impuestos y Aduanas Nacionales (DIAN), el cual relaciona la clasificación y responsabilidades del contribuyente.',
+        'es el documento que se tramita en la Dirección de Impuestos y Aduanas Nacionales (DIAN), el cual relaciona la clasificación y responsabilidades del contribuyente.',
     },
     {
       termino: 'Sociedad anónima',
@@ -275,7 +267,7 @@ export default {
     {
       referencia:
         'Consejo Técnico de la Contaduría Pública (2020, noviembre 6).',
-      link: 'http://www.ctcp.gov.co/',
+      link: 'https://www.ctcp.gov.co/',
     },
     {
       referencia:
@@ -294,7 +286,7 @@ export default {
     },
     {
       referencia:
-        'Instituto nacional de contadores públicos (2020, noviembre 6).',
+        'Instituto nacional de contadores públicos INCP (2020, noviembre 6).',
       link: 'https://www.incp.org.co/',
     },
     {
@@ -330,7 +322,7 @@ export default {
     },
     {
       referencia:
-        'Secretaría del Senado (2020, noviembre 6). Ley 223 de 1995. ',
+        'Secretaría del Senado (2020, noviembre 6). Ley 222 de 1995. ',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html',
     },
@@ -463,6 +455,11 @@ export default {
         {
           nombre: 'Zuleidy Maria Ruiz Torres',
           cargo: 'Producción audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
